@@ -28,7 +28,6 @@ Ayush Kejariwal (batch 2019-23) is a wonderful Flutter developer who has created
 #### Rishika Wadhera (batch 2019-23)
 
 Rishika Wadhera (batch 2019-23) is a fabulous web-developer who has built the frontend of codedigger.tech website using ***ReactJS***. It is a website that provides selected problems from the top coding sites (Codeforces, Codechef, UVa and SPOJ) to enhance skills in competitive programming. It has features like upsolve, profile, mentors, friend list etc. The website sorts out all topics as a ladder of easy to hard questions. Before diving into any topics, the website provides amazing techniques through video tutorials. After solving the complete ladder, users can test their knowledge by doing a virtual contest based on the topic they learnt.
-[Codedigger Website](https://codedigger.tech/)
 
 ![image](https://user-images.githubusercontent.com/53336715/110262436-8636d980-7f68-11eb-84bf-a8d6d3d468ac.png)
 

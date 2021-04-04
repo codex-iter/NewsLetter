@@ -1,3 +1,36 @@
-theme: jekyll-theme-hacker
-title: CODEX NewsLetter
+title: CODEX-NewsLetter
 description: Get updated informations regarding CODEX community, members, their working projects, contributions and achievements. <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2s3Q7DE6P4X5BBPwyMJhtmyG2iJTrERmsXtuK413NazzjCw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+author:
+  name: "CODEX-NewsLetter"
+  url: "https://codex-iter.github.io/NewsLetter/"
+  
+email: "codexnewsletteriter@gmail.com"
+
+baseurl: /
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+disqus_shortname: CODEX-NewsLetter
+disqus_url: "https://codex-iter.github.io/NewsLetter/"
+
+# Custom variables
+owner : "CODEX"
+year : "2021"

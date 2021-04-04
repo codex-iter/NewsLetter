@@ -1,0 +1,14 @@
+<footer>
+  <a href="mailto:{{ site.email }}">
+    <span class="glyphicon glyphicon-envelope">
+    </span> {{ site.email }}
+  </a>
+  <span class="point"> · </span>
+  <a href="https://github.com/codex-iter">
+    <span>
+        <b>{{ site.owner }}</b>
+    </span>
+    {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+    <span>© {{ currentyear }}</span>
+  </a>
+</footer>

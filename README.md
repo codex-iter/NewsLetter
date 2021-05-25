@@ -15,6 +15,7 @@ We, the newsletter group, believe that a good community is one which has active 
 3) [A S V K Vinayak](https://github.com/ASVKVINAYAK)
 4) [Rahul Mukherjee](https://github.com/Rahul-programmer)
 5) [Sourav Prusty](https://github.com/SouravReal)
+6) [Sourav Bera](https://github.com/Zeo-shark)
 
 ## Join Us
 

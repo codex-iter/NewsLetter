@@ -8,4 +8,6 @@ CODEX club of ITER brings you the CODEX Newsletter. It was started in March 2021
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1D319LqnOlg7schsN4cX0t2f3dUy2GXPWVHW432HT3kgUBw/viewform?embedded=true" width="300" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<figure class="video_container">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1D319LqnOlg7schsN4cX0t2f3dUy2GXPWVHW432HT3kgUBw/viewform?embedded=true"></iframe>
+</figure>
